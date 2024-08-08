@@ -4,3 +4,4 @@ This Python-based application converts audio files, specifically MP3 format, int
 # Methodology-
 ![Screenshot 2024-08-08 142409](https://github.com/user-attachments/assets/f39655f4-c586-4ccd-a0a7-6b808e455edb)
 # Output and GUI-
+![Screenshot 2024-08-08 150044](https://github.com/user-attachments/assets/ee8a61c7-2e46-4b5e-8a27-cb70f35afa38)
